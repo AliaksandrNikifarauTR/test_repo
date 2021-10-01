@@ -1,2 +1,2 @@
 my new text
-2st bla line conflict
+2st line conflict
